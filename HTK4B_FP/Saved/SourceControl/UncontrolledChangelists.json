@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/UnrealEngine/HTK4B_FirstPerson/HTK4B_FP/Content/FirstPersonAdventure/Blueprints/Core/C_FirstPerson.uasset",
+				"F:/UnrealEngine/HTK4B_FirstPerson/HTK4B_FP/Content/FirstPersonAdventure/Blueprints/InteractionSystem/AC_InteractionSystem.uasset",
+				"F:/UnrealEngine/HTK4B_FirstPerson/HTK4B_FP/Content/FirstPersonAdventure/Blueprints/InteractionSystem/I_Interactable.uasset",
+				"F:/UnrealEngine/HTK4B_FirstPerson/HTK4B_FP/Content/FirstPersonAdventure/Blueprints/InteractionSystem/A_Grapable_Base.uasset",
+				"F:/UnrealEngine/HTK4B_FirstPerson/HTK4B_FP/Content/FirstPersonAdventure/Maps/L_FirstPerson.umap",
+				"F:/UnrealEngine/HTK4B_FirstPerson/HTK4B_FP/Content/FirstPersonAdventure/Blueprints/InteractionSystem/FL_InteractionSystem.uasset",
+				"F:/UnrealEngine/HTK4B_FirstPerson/HTK4B_FP/Content/FirstPersonAdventure/Blueprints/InteractionSystem/A_Door.uasset",
+				"F:/UnrealEngine/HTK4B_FirstPerson/HTK4B_FP/Content/FirstPersonAdventure/Blueprints/InteractionSystem/A_Lever.uasset"
+			]
+		}
+	]
+}
